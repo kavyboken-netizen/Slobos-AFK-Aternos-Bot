@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "SpearSpiderSMP.aternos.me",
+    "port": 21525,
     "version": "",
     "try-creative": false
   },
